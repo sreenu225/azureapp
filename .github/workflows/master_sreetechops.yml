@@ -54,4 +54,4 @@ jobs:
         app-name: 'sreetechops'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_0088614c31ff4200a371a9ff8233446a }}
-        package: './azureapp/'
+        package: .
